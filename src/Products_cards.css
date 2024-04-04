@@ -9,3 +9,8 @@
     max-width: 1200px;
     flex-wrap: wrap;
 }
+
+.product_cards_images{
+    width: 330px;
+    height: 250px;
+}
